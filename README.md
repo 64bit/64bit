@@ -1,7 +1,7 @@
 
 Indie Maker. Currently building [upvpn.app](https://upvpn.app) - A Modern Serverless VPN.
 
-I also code @upvpn.
+I also code [@upvpn](https://github.com/upvpn).
 
 <!--
 **64bit/64bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
