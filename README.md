@@ -1,6 +1,6 @@
 👋 Hi there
 
-I'm an Indie Maker building [upvpn.app](https://upvpn.app)  @upvpn
+I'm an Indie Maker building [upvpn.app](https://upvpn.app)  [@upvpn](https://github.com/upvpn)
 
 
 <!--
