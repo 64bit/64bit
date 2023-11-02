@@ -1,4 +1,4 @@
-Indie Maker building [upvpn.app](https://upvpn.app)  [@upvpn](https://github.com/upvpn)
+Building [upvpn.app](https://upvpn.app)  [@upvpn](https://github.com/upvpn)
 
 
 <!--
