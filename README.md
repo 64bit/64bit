@@ -1,4 +1,6 @@
-Building [upvpn.app](https://upvpn.app)  [@upvpn](https://github.com/upvpn)
+Building infrastructure products:
+- [UpVPN.app](https://UpVPN.app)  [@upvpn](https://github.com/upvpn)
+- [ServerlessVPN.com](https://ServerlessVPN.com)
 
 
 <!--
