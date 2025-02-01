@@ -1,4 +1,6 @@
-Building infrastructure products:
+DevOps at [reducto.ai](reducto.ai)
+
+Previously, made infrastructure products:
 - [UpVPN.app](https://UpVPN.app)  [@upvpn](https://github.com/upvpn)
 - [ServerlessVPN.com](https://ServerlessVPN.com)
 
