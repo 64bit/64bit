@@ -1,4 +1,4 @@
-DevOps at [reducto.ai](reducto.ai)
+DevOps at [reducto.ai](https://reducto.ai)
 
 Previously, made infrastructure products:
 - [UpVPN.app](https://UpVPN.app)  [@upvpn](https://github.com/upvpn)
